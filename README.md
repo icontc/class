@@ -48,6 +48,6 @@ HTML (HyperText Markup Language) হলো ওয়েব পেজ তৈর�
 ## অবদানে :
 ## ICON TRAINING CENTER
 Bangodda (Mahani Road), Nangalkot, Cumilla.
-web: https://wwww.icontc.com
+web: https://www.icontc.com
 
 
